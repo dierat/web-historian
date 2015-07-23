@@ -43,14 +43,31 @@ exports.addUrlToList = function(fileLocation, dataFile){
   });
 };
 
-exports.isURLArchived = function(){
+exports.isUrlArchived = function(url,callback){
+  // call exports.readListOfUrls, with callback that calls exports.isUrlInList
+  // var isURLArchived = false;
+  exports.readListOfUrls('../web/archives/archivedSites.txt', function(arr){
+    if(exports.isUrlInList(arr, url)) {
+      // isURLArchived = true; 
+      callback(true);
+    } else {
+      callback(false);
+    }
+      // console.log("is URL archived?: ", isURLArchived);
+  });
+
 };
 
 exports.downloadUrls = function(dataFile){
-  // console.log("downloadUrls calling!");
+  console.log("downloadUrls calling!");
   request("http://" + dataFile, function(err, response, body) {
     fs.writeFile('../web/archives/sites/' + dataFile + '.txt', 
       body, function(err){ 
-        if(err){console.log('error');}});
-  });
-};
+        if(err){
+          console.log('error');
+        } else {
+          exports.addUrlToList('../web/archives/archivedSites.txt', dataFile);
+        }
+    });// fs.writeFile
+  });// request
+};// downloadUrls

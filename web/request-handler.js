@@ -39,7 +39,17 @@ exports.handleRequest = function (req, res) {
           httpHelpers.serveAssets(res, __dirname + '/public/loading.html', function(){}, 302);
 
         }else{
-          httpHelpers.serveAssets(res, './archives/sites/' + dataFile + '.txt', function(){});
+          // if it has already been archived
+          archive.isUrlArchived(dataFile, function(isURLArchived){
+            if ( isURLArchived ) {
+              // send back the archived site
+              httpHelpers.serveAssets(res, './archives/sites/' + dataFile + '.txt', function(){});
+            // else
+            } else {
+              // send back the loading screen
+              httpHelpers.serveAssets(res, __dirname + '/public/loading.html', function(){}, 302);
+            }
+          }); //ends archive.isUrlArchived()
         }
       });//ended fs.readFile
     });//req.on('end')

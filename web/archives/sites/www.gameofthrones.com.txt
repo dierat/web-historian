@@ -1,0 +1,55 @@
+<!DOCTYPE html><!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]> <html class="no-js ie9"> <![endif]-->
+<!--[if gt IE 9]> <html class="no-js ie"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en" class="no-js"><!--<![endif]-->
+  <head>
+    <script language="javascript">
+      if (typeof(window.history.pushState) == 'function') {
+      window.history.pushState(null, "Game of Thrones", window.location.hash.substring(2));
+      } else {
+      window.location.hash = '/' + window.location.hash.substring(2);
+      }
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="fragment" content="!">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0, minimal-ui">
+    <title>Game of Thrones Viewer's Guide</title>
+    <!-- SEO Tags-->
+    <meta name="description" content="Enter the world of Game of Thrones with official maps of the Seven Kingdoms and interactive family trees that capture the rich backgrounds of the characters and locations featured in the HBO series.">
+    <!-- Facebook Tags-->
+    <meta property="og:title" content="Game of Thrones Viewer's Guide">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://viewers-guide.hbo.com">
+    <meta property="og:description" content="Enter the world of Game of Thrones with official maps of the Seven Kingdoms and interactive family trees that capture the rich backgrounds of the characters and locations featured in the HBO series.">
+    <meta property="og:image" content="http://assets.viewers-guide.hbo.com/1200x630-got-share-image.jpg">
+    <!-- Twitter Tags-->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="http://viewers-guide.hbo.com">
+    <meta name="twitter:title" content="Game of Thrones Viewer's Guide">
+    <meta name="twitter:description" content="Explore interactive family trees, the map of #Westeros and more on the @GameofThrones Viewer’s Guide.">
+    <meta name="twitter:site" content="@GameofThrones">
+    <meta name="twitter:creator" content="@GameofThrones">
+    <!-- Favicons-->
+    <link rel="shortcut icon" type="image/x-icon" href="//awseb-e-g-awsebloa-1dkpwnyz1huca-885699373.us-west-1.elb.amazonaws.com/favicon.ico">
+    <link rel="icon" href="//awseb-e-g-awsebloa-1dkpwnyz1huca-885699373.us-west-1.elb.amazonaws.com/images/favicon-16.png" sizes="16x16">
+    <link rel="icon" href="//awseb-e-g-awsebloa-1dkpwnyz1huca-885699373.us-west-1.elb.amazonaws.com/images/favicon-24.png" sizes="24x24">
+    <link rel="icon" href="//awseb-e-g-awsebloa-1dkpwnyz1huca-885699373.us-west-1.elb.amazonaws.com/images/favicon-32.png" sizes="32x32">
+    <link rel="apple-touch-icon-precomposed" href="{#env}/images/favicon-152.png">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="//awseb-e-g-awsebloa-1dkpwnyz1huca-885699373.us-west-1.elb.amazonaws.com/images/favicon-144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="//awseb-e-g-awsebloa-1dkpwnyz1huca-885699373.us-west-1.elb.amazonaws.com/images/favicon-152.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//awseb-e-g-awsebloa-1dkpwnyz1huca-885699373.us-west-1.elb.amazonaws.com/images/favicon-144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="//awseb-e-g-awsebloa-1dkpwnyz1huca-885699373.us-west-1.elb.amazonaws.com/images/favicon-120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//awseb-e-g-awsebloa-1dkpwnyz1huca-885699373.us-west-1.elb.amazonaws.com/images/favicon-114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//awseb-e-g-awsebloa-1dkpwnyz1huca-885699373.us-west-1.elb.amazonaws.com/images/favicon-72.png">
+    <link rel="apple-touch-icon-precomposed" href="//awseb-e-g-awsebloa-1dkpwnyz1huca-885699373.us-west-1.elb.amazonaws.com/images/favicon-57.png">
+    <!--
+    OMNITURE
+    add "_testing" to s_code_onsite for dev environment
+    -->
+    <script type="text/javascript" src="http://i.lv3.hbo.com/html/js/s_code_onsite.js"></script>
+    <script type="text/javascript" src="http://i.lv3.hbo.com/html/js/offsite-tracklinks.js"></script>
+    <!-- FONTS-->
+    <link rel="stylesheet" typ
