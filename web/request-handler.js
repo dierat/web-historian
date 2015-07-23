@@ -8,6 +8,8 @@ var request      = require("request");
 
 exports.handleRequest = function (req, res) {
 
+  console.log("Getting ", req.method, " request from ", req.url);
+
   if(req.method === 'GET'){
     if (req.url === '/'){
       req.url += 'index.html';
@@ -33,8 +35,6 @@ exports.handleRequest = function (req, res) {
         // if dataFile is not in the array
         if ( !(_.contains(arr, dataFile)) ){
 
-          
-
           // use append to add this string to the end of 
           // the file with '\n' at the end
           // archive the actual website
@@ -45,9 +45,12 @@ exports.handleRequest = function (req, res) {
               body, function(err){ 
                 if(err){console.log('error');}});
           });
-          fs.appendFile('./archives/sites.txt', dataFile + '\n', function(err){
-            if(err) throw err;
-          });
+          // NOW BEING CALLED IN archive.addUrlToList()
+          // fs.appendFile('./archives/sites.txt', dataFile + '\n', function(err){
+          //   if(err) throw err;
+          // });
+
+          archive.addUrlToList('./archives/sites.txt', dataFile);
 
             // the following code should stay here
 

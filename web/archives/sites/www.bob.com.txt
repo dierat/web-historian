@@ -1,0 +1,853 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<title>Bob.com - Best of Business by Bob Kerstein</title>
+<meta name="description" content="Unique Business Gifts selected by Bob">
+<meta name="content" content="Business Historical Gifts selected by Bob Kerstein">
+<meta name="description" content="obsolete stock and bond certificates">
+<meta name=viewport content="width=device-width">
+<meta name="keywords" content="Gifts, scripophily, old stocks, bob, bob.com, bob .com, scripophily.com, dot coms, old scripophily, old paper money, bob kerstein, executive gifts, weddings, company gifts, collectible stocks, scripophily, financial history, stock certificates">
+<basefont face="arial">
+<link rel=stylesheet type=text/css href=style.css>
+<style type="text/css">
+.auto-style1 {
+	border-width: 1px;
+	background-color: #C0C0C0;
+}
+.auto-style2 {
+	color: #000000;
+}
+.auto-style4 {
+	font-weight: bold;
+	text-align: center;
+}
+.auto-style5 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.auto-style6 {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.auto-style7 {
+	color: #008000;
+}
+.auto-style8 {
+	color: #0000FF;
+}
+.auto-style9 {
+	font-weight: bold;
+	border-style: solid;
+	border-width: 1px;
+}
+.auto-style10 {
+	text-align: center;
+}
+.auto-style11 {
+	color: #FF0000;
+}
+.auto-style14 {
+	color: #000000;
+	font-weight: normal;
+	font-size: large;
+}
+.auto-style15 {
+	text-align: left;
+}
+.auto-style18 {
+	color: #000000;
+	font-weight: normal;
+	font-size: medium;
+}
+.auto-style19 {
+	font-size: medium;
+}
+.auto-style20 {
+	font-weight: bold;
+	background-color: #FFFFFF;
+}
+.auto-style21 {
+	background-color: #FFFFFF;
+}
+.auto-style22 {
+	font-size: medium;
+	background-color: #FFFFFF;
+}
+.auto-style23 {
+	border-width: 1px;
+}
+.auto-style24 {
+	font-size: medium;
+	font-weight: bold;
+	background-color: #FFFFFF;
+}
+</style>
+</head>
+
+<link rel="shortcut icon" href="bob.ico" >
+
+<body style="text-align: center">
+
+	<div align="center">
+
+	<TABLE border=0 cellpadding=0 cellspacing=0 width="77%">
+	<TR height=71>
+		<TD background="images/topline-back.gif"><a href=http://www.scripophily.net>
+        <img src=images/topline-logo.jpg border=0 width="150" height="71"></a><img src=images/topline-mont.jpg width="755" height="71"><table width="100%" class="auto-style9">
+			<tr>
+				<td class="auto-style1">
+				<p align="center"><font color="#FFFFCC" face="Verdana">
+				<span class="auto-style7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+				<br>
+				</span><a href="http://scripophily.net"><span class="auto-style8">World's #1 Buyer and Seller of 
+				Paper Stock and 
+				Bond Certificates - Over 17,500 Selections</span></a><span class="auto-style11"><br></span>
+				<span class="auto-style14"><strong>Great Gifts for Every 
+				Occasion!<br></strong></span><br><span class="auto-style18">
+				<a href="http://www.oldcompany.com">Our World Class Old Company 
+				Stock Research Service Was Founded in 1880</a></span></font><div style="repeat-x; margin: 0px 0 10px 0" class="auto-style10">
+<form method="get" action="http://search.scripophily.com/search" id="nxt-ac-form" style="margin-bottom: 0px;">
+              <input type="hidden" name="vwcatalog" value="scripophily"><input type="text" name="query" class="inpbox" id="nxt-ac-searchbox" style="margin-left:20px; width: 550px;" placeholder="Enter Search Here...">&nbsp;<input type="image" src="http://www.scripophily.net/lib/scripophily/scr-search-text4.jpg" align="absmiddle" width="40" height="23">
+            </form></div>
+
+				</td>
+			</tr>
+		</table>
+		</TD>
+	</TR>
+	<TR height=36>
+		<TD align=center background="images/topmenuline-back.jpg">
+			<TABLE border=0 cellpadding=0 cellspacing=0 height=100%>
+			<TR>
+				<TD class=topmenu><a href=http://www.scripophily.net/seforitbyst.html>Search by price</a></TD>
+				<TD class=topmenu><a href=http://www.scripophily.net/searchbyprice0-15.html>up to $15</a></TD>
+				<TD class=topmenu><a href=http://www.scripophily.net/searchbyprice15-30.html>$15 to $30</a></TD>
+				<TD class=topmenu><a href=http://www.scripophily.net/searchbyprice30-50.html>$30 to $50</a></TD>
+				<TD class=topmenu><a href=http://www.scripophily.net/searchbyprice50-100.html>$50 to $100</a></TD>
+				<TD class=topmenu><a href=http://www.scripophily.net/searchbyprice100-200.html>$100 to $200</a></TD>
+				<TD class=topmenu><a href=http://www.scripophily.net/searchbyprice200-500.html>$200 to $500</a></TD>
+				<TD class=topmenu><a href=http://www.scripophily.net/searchbyprice500-1000.html>$500 to $1000</a></TD>
+				<TD class=topmenu><a href=http://www.scripophily.net/searchbyprice1000-2000.html>$1000 to $2000</a></TD>
+				<TD class=topmenu><a href=http://www.scripophily.net/searchbyprice2000ormore.html>$2000 or more</a></TD>
+			</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	<TR height=36>
+		<TD align=right>
+		<table border="0" cellSpacing="0" cellPadding="0">
+			
+
+		</TD>
+	</TR>
+	<TR height=2>
+		<TD background="images/divline-right.jpg">
+        <img src=images/divline-left.jpg width="150" height="2"></TD>
+	</TR>
+	<TR>
+		<TD valign=top>
+			<TABLE border=0 cellpadding=0 cellspacing=0 width="100%" height=100%>
+			<TR>
+				<TD bgcolor=white width=150 valign=top align=center>
+					<p><br>
+                    <font size="2"><b><a href="http://www.oldcompany.com">
+                    We Can Research </a><br>
+					<a href="http://www.oldcompany.com">
+                    Your Old Stocks<br>
+                    Click Here for Details</a></b><br>
+                    </font>
+                    <font color="#FF0000" size="2"><a href="http://www.oldcompany.com">
+                    <img border="0" src="http://www.oldcompanyresearch.com/images/oldstockdetective.jpg" width="149" height="148"><br>
+                    </a>
+                    </font>
+                    <a href="http://www.oldcompany.com">
+                    <b><font size="2">Old Stock Research Service</font></b></a><font size="2">
+					</font>
+					<img src=images/side-div.jpg width="150" height="29">
+					</p><p>
+							<a target="_blank" href="http://www.journalofaccountancy.com/Issues/2009/Sep/20091902.htm" style="color: #20c">
+							<img border="0" src="Kersteinjoa.jpg" height="139" width="129"></a><font size="2" face="Verdana"  color="#ffffff"><b><a href="http://www.journalofaccountancy.com/Issues/2009/Sep/20091902.htm" style="color: #20c"><br>
+							<font color="#FFFFFF">Bob Kerstein, CPA in </font></a>
+							<a target="_blank" href="http://www.journalofaccountancy.com/Issues/2009/Sep/20091902.htm">
+							Journal of Accountancy Interview</a></b></font><p>
+					<img src=images/side-div.jpg width="150" height="29"></p>
+					<p><font face="Verdana"><a href=http://www.scripophily.net>
+                    <font size="2">
+                    <img src=images/side-banner-bobcom.jpg border=0 width="140" height="131"></font></a><font size="2">
+					</font>
+					</p>
+					<p>
+					<font size="2">
+					<img src=images/side-div.jpg width="150" height="29">
+					</font>
+					</p>
+					<p><a href=#>
+                    <font size="2">
+                    <img src=images/side-banner-specials.jpg border=0 width="140" height="90"></font></a><font size="2">
+					</font>
+					</p>
+					<p>
+					<font size="2">
+					<img src=images/side-div.jpg width="150" height="29">
+					</font>
+					</p>
+					<p>
+					<a href=http://www.scripophilynews.com/images/cnbsmarch202006final.wmv>
+                    <font size="2">
+                    <img src=images/side-banner-bob.jpg border=0 width="140" height="103"></font></a><font size="2">
+					</font></font>
+					<a href=http://www.scripophilynews.com/images/cnbsmarch202006final.wmv class=sidelink>
+					<font face="Verdana" size="2">Bob.com Kerstein, CEO Scripophily.com with Jane Wells - CNBC Interview</font></a><p>
+					<font size="2" face="Verdana">
+					<img src=images/side-div.jpg width="150" height="29"></font><p align="center">
+                    <font face="Verdana">
+                    <a href="http://www.scripophily.net/bmaprfrextos.html">
+					<font size="2">
+					<img border="0" src="http://www.scripophily.com/webcart/vigs/bushbaremarketfinal1.jpg" width="198" height="258"></font></a><p align="center">
+                    <b>
+                    <a href="http://www.scripophily.net/bmaprfrextos.html">
+					<font size="2">Framed Bare Market Print for Sale</font></a></b><p align="center">
+                    <font size="2">
+					<img src=images/side-div.jpg width="150" height="29"></font></font><p align="center">
+                          <a href="http://www.scripophilynews.com/images/CNBCJanuary2005.wmv">
+                          <font size="2" face="Verdana">
+                          <img height="83" src="http://www.scripophilynews.com/images/cnbc3.jpg" width="123" border="0"><br>
+                          <b>Bob.com - CNBC Interview</b></font></a><b><font face="Verdana" size="2">
+					</font></b>
+					<p align="center">
+                    <font size="2" face="Verdana">
+					<img src=images/side-div.jpg width="150" height="29"></font><p>
+
+			<font size="2" face="Verdana">
+			<a href="http://www.psta.com/memberskersteinseal.htm">
+			<img alt="PSTA - Professional Scripophily Trade Association Member's Seal of Quality" src="http://www.psta.com/images/pstamembernew.gif" border="0" width="99" height="83"><br>
+			<b>PSTA Seal of Quality</b></a></font><p>
+					<font size="2" face="Verdana">
+					<img src=images/side-div.jpg width="150" height="29"></font><font face="Verdana"><font size="2"><br>
+					<br>
+					<a target="_blank" href="http://www.bbb.org/washington-dc-eastern-pa/business-reviews/collectibles/scripophily-com-in-chantilly-va-30000532/">
+                    <img height="130" alt="Scripophily.com - Gift of History -  BBB Membership Seal" src="http://lib.store.yahoo.net/lib/scripophily/bbb1.gif" width="85" border="0"></a><a target="_blank" href="http://www.bbbonline.org/cks.asp?id=10409168191446811"><br>
+                    </a>
+					</font>
+                    <b><font size="2">
+					<a target="_blank" href="http://www.bbb.org/washington-dc-eastern-pa/business-reviews/collectibles/scripophily-com-in-chantilly-va-30000532/">Our Company is a Member of the&nbsp; Better 
+                    Business Bureau</a></font></b></font></TD>
+				<TD bgcolor=#800000 valign=top id=bodycenter>
+					<TABLE border=0 cellpadding=0 cellspacing=0 width=100%>
+					<TR>
+						<TD background="images/body-back.jpg" valign=top>
+							<TABLE border=0 cellpadding=0 cellspacing=0 width=100% height=100%>
+							<TR>
+								<TD id=bodyleft valign=top>
+									<TABLE border=0 cellpadding=0 cellspacing=0 width=100% height=100%>
+									<TR>
+										<TD id=bodyright valign=top>
+											<TABLE border=0 cellpadding=0 cellspacing=0 width=100% height=100%>
+											<TR>
+												<TD id=bodytop valign=top>
+													<TABLE border=0 cellpadding=0 cellspacing=0 width=100% height="91%">
+													<TR>
+														<TD id=bodytopleft valign=top>
+															<TABLE border=0 cellpadding=0 cellspacing=0 align="center">
+																<TR>
+																	<TD id=bodytopright valign=top align="right">
+							<TABLE border=0 cellpadding=0 cellspacing=0 width=100% height=100%>
+							<TR>
+								<TD id=bodybottomleft valign=top>
+									<TABLE border=0 cellpadding=0 cellspacing=0 width=100% height=100%>
+									<TR>
+										<TD id=bodybottomright valign=top>
+											<p>&nbsp;</TD>
+									</TR>
+									</TABLE>
+								</TD>
+							</TR>
+							</TABLE>
+																	</TD>
+																	<TD id=bodytopright valign=top align="center">
+																	<table border="0" align="left" cellpadding="5" style="width: 1069px">
+																		<tr>
+																			<td class="auto-style4">
+																			<font face="Verdana">&nbsp;&nbsp; 
+																			<font size="4">Bob offers original stock 
+				certificates, autographs &amp;&nbsp;&nbsp;&nbsp;&nbsp; <br>&nbsp;&nbsp;&nbsp;&nbsp; other Wall Street Collectibles - 
+																			<a href="http://scripophily.net">17,500 Selections</a></font></font></td>
+																		</tr>
+																	</table>
+																	<p><br>
+																	<br>
+&nbsp;</p>
+																	<p><B>
+																	<font face="Verdana" color="#000000">
+																	<a href="http://www.scripophily.net/cp-what.html" style="text-decoration: none">
+																	<font size="4">To place a phone order 
+																	</font></a>
+																	<font size="4">call 703-787-3552 or 1-888-786-2576 (Toll Free) or you can order online 
+																	<br>
+																	with our Secure Server on our 
+																	</font>
+																	<a href="http://www.scripophily.net">
+																	<font size="4">website</font></a><br>
+																	</font><br>
+																	</B>
+																	<font face="Verdana">
+																	<a target="_blank" href="http://twitter.com/scripophily">Follow Bob.com on 
+	Twitter by Clicking Here </a></font><br><font face="Verdana" color="#000000">
+																	<a href="http://www.scripophily.com/scripophilycollectingideas.htm">Stock and Bond Collecting Themes</a></font></p>
+																	<table border="0" cellpadding="3" cellspacing="2" id=bodytable width=100%>
+																		<tr>
+																			<td valign="top">
+																			<div class="rssincl-itemdesc">
+																				<p align="center"><br>
+&nbsp;<a href="http://scripophily.net/wadicode.html" onmousedown="return x(&quot;wadicode&quot;,4);"><img border="0" height="195" onerror="this.style.display=&quot;none&quot;;" src="http://ep.yimg.com/ay/scripophily/walt-disney-company-specimen-michael-eisner-as-chairman-delaware-2.gif" width="251"></a><br><a href="http://scripophily.net/wadicode.html" onmousedown="return x(&quot;wadicode&quot;,4);"><b>Walt Disney Company Specimen Stock Certificate (Michael Eisner as Chairman) - Delaware - SCARCE</b></a></div>
+																			<hr>
+																			<p align="center">
+																			<a href="http://scripophily.net/pianstbobywa.html">
+																			<img border="0" height="174" onerror="this.style.display=&quot;none&quot;;" src="http://ep.yimg.com/ay/scripophily/pixar-stock-certificate-produced-toy-story-a-bug-s-life-monsters-inc-steve-jobs-as-chairman-acquired-by-disney-2.gif" width="251"></a><br>
+																			<a href="http://search.scripophily.com/redirect?url=http%3A%2F%2Fscripophily.net%2Fpianstbobywa.html" onmousedown="return x(&quot;pianstbobywa&quot;,1);">
+																			<b>
+																			Pixar 
+																			Stock 
+																			Certificate 
+																			( 
+																			Produced 
+																			Toy 
+																			Story 
+																			, A 
+																			Bug's 
+																			Life, 
+																			Monsters, 
+																			Inc 
+																			) 
+																			Steve 
+																			Jobs 
+																			as 
+																			Chairman 
+																			- 
+																			Acquired 
+																			by 
+																			Disney</b></a></p>
+																			<hr>
+																			<p align="center">
+																			<a href="http://www.scripophily.net/comoobin19.html">
+																			<img border="0" src="images/cwide.jpg" width="206" height="140" alt="Countrywide Financial Mortgate Obligations"></a><a href="http://www.scripophily.net/encorlarbusf.html"><b><font class="big" id="black28"><br>
+																			</font>
+																			</b>
+																			</a>
+																			<font size="2">
+																			<a href="http://www.scripophily.net/comoobin19.html">Countrywide Mortgage Obligations, Inc. (Became Countrywide 
+					Financial Corp bailed out by Bank of America) - 1986</a></font><hr>
+																			<p align="center">
+																			<a href="http://www.scripophily.net/docscanser.html">
+																			<font size="2">
+																			<img border="0" src="http://www.scripophily.com/webcart/vigs/cottonpickercompany.jpg" width="157" height="104"></font></a><font size="2"><br>
+																			</font>
+																			<b>
+																			<font size="2">
+																			<a href="http://www.scripophily.net/docscanser.html">High Resolution 
+                    Stock and Certificate Scans </a><br><i><a href="http://www.scripophily.net/docscanser.html">Now 
+                    Available</a></i></font></b><div align="center">
+&nbsp;
+
+     <!-- BEGIN: Constant Contact Basic Opt-in Email List Form -->
+																				<div align="center">
+																					<table border="0" cellspacing="0" cellpadding="3" bgcolor="#ffffcc" style="border:2px solid #000000;">
+																						<tr>
+																							<td align="center" style="font-weight: bold; font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:12px; color:#000000;">Join Our Mailing List</td>
+																						</tr>
+																						<tr>
+																							<td align="center" style="border-top:2px solid #000000">
+																							<form name="ccoptin" action="http://visitor.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom:2;">
+																								<input type="hidden" name="m" value="1101645273543"><input type="hidden" name="p" value="oi"><font style="font-weight: normal; font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:12px; color:#000000;">Email:</font> <input type="text" name="ea" size="20" value="" style="font-size:10pt; border:1px solid #999999;"> <input type="submit" name="go" value="Go" class="submit" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10pt;">
+																							</form>
+																							</td>
+																						</tr>
+																					</table>
+																				</div>
+<!-- END: Constant Contact Basic Opt-in Email List Form -->
+<!-- BEGIN: SafeSubscribe -->
+																				<div align="center">
+																					<a href="http://www.constantcontact.com/safesubscribe.jsp" target="_blank"><img src="http://img.constantcontact.com/ui/images1/safe_subscribe_logo.gif" border="0" width="168" height="14" alt="" vspace="5"/></a> </div>
+																			</div>
+																			</td>
+																			<td align="center" valign="top">
+																			<p align="center">&nbsp;<!-- AddThis Button BEGIN -->
+																			<a href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()">
+																			<img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=scripophily"></script>
+<!-- AddThis Button END -->
+																			<br>
+																			<p align="center">
+																			<a style="color: #20c" href="http://scripophily.com/images/InsideEditionsm1.wmv">
+																			<img border="0" alt="Bob Kerstein, CEO Scripophily.com" src="http://scripophily.com/images/insideedition-1-1a.jpg" width="343" height="266"></a>
+																			</p>
+																			<p align="center">
+																			See 
+																			Stock 
+																			Certificate 
+																			Expert 
+																			Bob 
+																			Kerstein, 
+																			CEO 
+																			Scripophily.com<br>
+																			<a target="_blank" style="color: #20c" href="http://scripophily.com/images/InsideEditionsm1.wmv">
+																			Inside 
+																			Edition 
+																			Story 
+																			and
+																			</a>
+																			<br>
+																			<a target="_blank" style="color: #20c" href="http://video.today.msnbc.msn.com/today/47039788#47039788">
+																			the 
+																			Today 
+																			Show 
+																			Story</a><br>
+																			&nbsp;</p>
+																			<hr>
+																			<p align="center">
+																			<b>
+																			<font size="2" face="Verdana">
+																			<a href="http://search.scripophily.com/search?vwcatalog=scripophily&amp;query=standard+oil+trust" target="_blank">
+																			<img border="0" src="standardoil171.jpg" width="327" height="170"></a><a target="_blank" href="http://www.scripophily.net/stoiltrsibyj1.html"><br>
+																			</a>
+																			</font>
+																			</b>
+																			<font face="Arial">
+																			<a href="http://search.scripophily.com/search?vwcatalog=scripophily&amp;query=standard+oil+trust" target="_blank">Standard Oil Trust signed by J. D. Rockefeller - 
+								1882</a></font><p align="center"><a href="http://scripophily.net"><img alt="Wall Street Stock Calendar" height="240" src="http://lib.store.yahoo.net/lib/scripophily/Page01.JPG" width="275"></a><br>
+																			&nbsp;<hr>
+																			<font style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 16px">
+																			<table border="0">
+																				<tr>
+																					<td>
+																					<p align="center"><strong><font face="Arial Black">Search for items by State<br>
+																					Just Point and Click</font><font color="#0000ff" face="Broadway"><br>
+																					</font></strong><font color="#ff0000" size="+3" face="Broadway"><map name="FPMap1">
+																					<area shape="RECT" coords="5, 173, 51, 208" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=hawaii&">
+																					<area shape="POLY" coords="105, 177, 106, 216, 128, 225, 133, 250, 1, 250, 1, 211, 58, 211, 58, 169" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Alaska&">
+																					<area shape="RECT" coords="0, 9453952, 9783164, 9454076">
+																					<area shape="POLY" coords="316, 15, 316, 33, 320, 43, 330, 41, 336, 33, 328, 22, 326, 14" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Maine&&quot;">
+																					<area shape="POLY" coords="271, 42, 298, 40, 302, 40, 303, 53, 308, 50, 309, 48, 309, 44, 309, 37, 303, 35, 288, 34, 270, 34" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Vermont&&quot;">
+																					<area shape="POLY" coords="266, 51, 266, 63, 267, 71, 293, 67, 299, 72, 304, 74, 305, 74, 307, 74, 307, 70, 304, 66, 300, 41, 285, 48" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=New York&&quot;">
+																					<area shape="POLY" coords="307, 56, 322, 51, 338, 53, 344, 48, 338, 44, 330, 44, 318, 44, 314, 33, 310, 33, 313, 46, 310, 50, 306, 53" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=New Hampshire&&quot;">
+																					<area shape="POLY" coords="304, 58, 322, 52, 340, 55, 339, 58, 306, 62, 304, 61" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Massachusetts&&quot;">
+																					<area shape="RECT" coords="317, 61, 345, 66" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Rhode Island&&quot;">
+																					<area shape="RECT" coords="308, 67, 329, 74" href="http://www.state.ct.us">
+																					<area shape="RECT" coords="300, 75, 349, 82" href="http://www.state.nj.us">
+																					<area shape="RECT" coords="306, 96, 343, 103" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Delaware&">
+																					<area shape="POLY" coords="264, 73, 267, 89, 299, 83, 294, 68" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Pennsylvania&&quot;">
+																					<area shape="POLY" coords="279, 88, 287, 93, 298, 103, 304, 96, 291, 94, 288, 87" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Maryland&&quot;">
+																					<area shape="POLY" coords="313, 112, 296, 111, 265, 116, 256, 117, 256, 115, 260, 110, 265, 112, 271, 107, 273, 101, 282, 93, 287, 94, 288, 98, 293, 100, 298, 105, 314, 106" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Virginia&&quot;">
+																					<area shape="POLY" coords="266, 90, 281, 90, 277, 96, 270, 102, 270, 107, 266, 110, 260, 109, 256, 102, 260, 100" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=West Virginia&&quot;">
+																					<area shape="POLY" coords="270, 117, 292, 113, 306, 113, 332, 119, 328, 130, 311, 132, 295, 134, 286, 135, 276, 129, 269, 127, 262, 127, 255, 132, 247, 132, 257, 123, 262, 122, 262, 118" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=North Carolina&&quot;">
+																					<area shape="POLY" coords="257, 132, 258, 136, 264, 140, 270, 148, 275, 153, 304, 154, 304, 134, 293, 135, 286, 136, 280, 132, 274, 130, 267, 128, 262, 129" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=South Carolina&&quot;">
+																					<area shape="POLY" coords="240, 134, 245, 146, 248, 155, 246, 159, 248, 165, 266, 166, 266, 163, 275, 163, 285, 161, 284, 155, 274, 155, 265, 145, 256, 136, 254, 133" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Georgia&">
+																					<area shape="POLY" coords="223, 136, 238, 135, 243, 148, 245, 155, 245, 164, 237, 164, 237, 166, 227, 167, 232, 175, 225, 175, 224, 169" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Alabama&">
+																					<area shape="POLY" coords="274, 165, 268, 165, 268, 167, 260, 167, 253, 167, 246, 166, 239, 165, 237, 168, 229, 168, 233, 174, 272, 216, 292, 216, 287, 182" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Florida&">
+																					<area shape="POLY" coords="221, 136, 214, 136, 209, 137, 205, 146, 204, 154, 205, 157, 201, 162, 202, 168, 204, 169, 213, 169, 216, 173, 220, 178, 224, 176, 223, 170" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Mississippi&&quot;">
+																					<area shape="POLY" coords="261, 118, 216, 124, 212, 135, 245, 133, 256, 122, 261, 121" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Tennessee&&quot;">
+																					<area shape="POLY" coords="242, 100, 235, 109, 222, 113, 220, 118, 216, 119, 217, 122, 252, 117, 259, 109, 253, 102" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Kentucky&&quot;">
+																					<area shape="POLY" coords="241, 79, 250, 78, 263, 73, 265, 88, 255, 101, 246, 100, 243, 98" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Ohio&&quot;">
+																					<area shape="POLY" coords="238, 79, 225, 82, 225, 108, 235, 108, 242, 98" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Indiana&&quot;">
+																					<area shape="POLY" coords="205, 39, 206, 43, 222, 50, 234, 50, 229, 54, 227, 62, 228, 78, 247, 78, 254, 76, 258, 69, 264, 69, 263, 63, 252, 63, 245, 44, 231, 34, 216, 33, 212, 35" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Michigan&&quot;">
+																					<area shape="POLY" coords="197, 39, 194, 41, 194, 48, 192, 49, 191, 51, 192, 58, 194, 58, 201, 63, 200, 68, 202, 72, 203, 74, 222, 74, 222, 57, 226, 57, 228, 52, 217, 51, 217, 48, 214, 46, 207, 45, 203, 41" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Wisconsin&&quot;">
+																					<area shape="POLY" coords="205, 76, 222, 74, 224, 78, 224, 107, 219, 117, 216, 118, 212, 111, 209, 108, 209, 103, 203, 98, 200, 97, 200, 93, 203, 91, 203, 86, 202, 78" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Illinois&&quot;">
+																					<area shape="POLY" coords="186, 153, 202, 153, 204, 157, 200, 162, 201, 170, 212, 170, 219, 178, 227, 184, 225, 188, 215, 190, 205, 189, 186, 185, 186, 167, 185, 162, 185, 156" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Louisiana&&quot;">
+																					<area shape="POLY" coords="182, 126, 209, 125, 212, 129, 211, 133, 205, 141, 203, 152, 186, 152, 183, 148" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Arkansas&">
+																					<area shape="POLY" coords="175, 92, 199, 92, 199, 98, 208, 105, 208, 112, 214, 118, 213, 122, 211, 124, 181, 124, 181, 104" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Missouri&&quot;">
+																					<area shape="POLY" coords="170, 70, 169, 74, 174, 91, 194, 91, 196, 89, 201, 90, 200, 69" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Iowa&&quot;">
+																					<area shape="POLY" coords="166, 24, 170, 45, 170, 69, 199, 68, 199, 63, 193, 59, 191, 59, 190, 47, 193, 48, 193, 38, 200, 36, 213, 33, 200, 28, 176, 21, 176, 24" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Minnesota&&quot;">
+																					<area shape="POLY" coords="126, 124, 124, 161, 99, 158, 98, 164, 120, 186, 130, 180, 158, 217, 185, 183, 184, 150, 174, 147, 158, 144, 145, 141, 145, 125" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=texas&">
+																					<area shape="POLY" coords="126, 120, 126, 123, 147, 124, 146, 140, 182, 148, 180, 122" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Oklahoma&&quot;">
+																					<area shape="POLY" coords="135, 96, 177, 97, 179, 104, 179, 121, 134, 119" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Kansas&&quot;">
+																					<area shape="POLY" coords="125, 71, 168, 74, 175, 96, 135, 95, 135, 86, 123, 86" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Nebraska&&quot;">
+																					<area shape="POLY" coords="93, 84, 122, 86, 135, 87, 133, 119, 89, 115" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Colorado&">
+																					<area shape="POLY" coords="127, 47, 168, 49, 168, 73, 125, 70" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=South Dakota&&quot;">
+																					<area shape="POLY" coords="128, 23, 164, 25, 168, 48, 127, 46, 128, 30" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=North Dakota&&quot;">
+																					<area shape="POLY" coords="88, 116, 81, 163, 97, 161, 98, 157, 123, 159, 125, 119" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=New Mexico&&quot;">
+																					<area shape="POLY" coords="63, 112, 87, 116, 79, 162, 62, 158, 43, 146, 52, 133, 50, 124, 52, 119, 56, 119, 58, 111" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=arizona&&quot;">
+																					<area shape="POLY" coords="65, 70, 56, 109, 88, 114, 92, 82, 79, 80, 81, 73" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Utah&&quot;">
+																					<area shape="POLY" coords="86, 52, 81, 80, 123, 85, 125, 55" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Wyoming&&quot;">
+																					<area shape="POLY" coords="66, 22, 76, 50, 86, 50, 124, 52, 126, 22, 66, 14" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Montana&&quot;">
+																					<area shape="POLY" coords="58, 22, 55, 34, 57, 40, 51, 47, 48, 65, 65, 69, 81, 72, 85, 53, 75, 51, 64, 22, 64, 14, 60, 13" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Idaho&">
+																					<area shape="POLY" coords="31, 62, 47, 66, 64, 70, 56, 109, 54, 117, 51, 115, 49, 123, 24, 85" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Nevada&&quot;">
+																					<area shape="POLY" coords="2, 55, 30, 62, 24, 86, 48, 123, 50, 133, 40, 144, 25, 142, 2, 122, 0, 54, 3, 54" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=California&">
+																					<area shape="POLY" coords="13, 21, 23, 22, 23, 28, 55, 34, 57, 39, 52, 45, 48, 65, 2, 52" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Oregon&&quot;">
+																					<area shape="POLY" coords="19, 5, 31, 4, 61, 11, 56, 34, 25, 28, 25, 22, 10, 21, 12, 10" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=Washington&&quot;">
+																					<area shape="default" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=New Jersey&&quot;">
+																					<area shape="rect" coords="0, 0, 10000, 10000" href="http://search.scripophily.com/search?vwcatalog=scripophily&query=New Jersey&&quot;">
+																					</map><img border="0" alt="Map of the United States - Click and Point to the State you want" src="http://www.scripophily.com/images/statemap.gif" width="350" height="251" rectangle="(317,61) (345, 66)  http://www.state.ri.us" polygon="(271,42) (298,40) (302,40) (303,53) (308,50) (309,48) (309,44) (309,37) (303,35) (288,34) (270,34) (271,42) http://www.state.vt.us" usemap="#FPMap1"></font></td>
+																					<td background="http://scripophily.net/images/body-frame4.jpg" width="7">&nbsp;</td>
+																				</tr>
+																			</table>
+																			</font>
+																			</td>
+																			<td valign="top">
+																			<p class="auto-style10">
+																			&nbsp;</p>
+																			<div class="auto-style10">
+																				<COLOR="#FF0000">
+																				<span class="auto-style43"><font face="Verdana" size="4"><em><strong><span class="auto-style71"><span class="auto-style77"><span class="auto-style49"><font class="auto-style1" size="3"><font class="auto-style19" color="#ff0000" face="Verdana" size="2"><span class="auto-style21">Free </span></font></font><font class="auto-style1"><b><font color="#ff0000" face="Verdana"><a href="http://scripophily.net/bucsteelcasc4.html"><span class="auto-style37"><span class="auto-style22">Buckeye Steel Jeb Bush Family Co. </span></span></a></font><span class="auto-style19"><span class="auto-style1"><font face="Verdana"><a href="http://scripophily.net/bucsteelcasc4.html"><span class="auto-style21">Certificate 1930s</span></a><span class="auto-style21"> </span></font></span></span></b></font><font face="Verdana"><font class="auto-style1"><span class="auto-style37"><span class="auto-style22">with all Orders</span></span></font><font class="auto-style1" size="3"><font color="#ff0000" size="2"><span class="auto-style37"><span class="auto-style20"> </span><span class="auto-style24">Plus</span></span><span class="auto-style19"><span class="auto-style37"><br class="auto-style21"></span><span class="auto-style20">Free</span></span><span class="auto-style37"><span class="auto-style22"> </span></span></font></font></font><font class="auto-style1"><font class="auto-style1" size="3"><b><font color="#666666"><font class="auto-style1" face="Verdana"><span class="auto-style2"></span><a href="http://scripophily.net/ropetocoscun.html"><span class="auto-style37"><span class="auto-style22">Roberts Petroleum Torpedo Fracking </span></span></a></font></font><span class="auto-style19"><font color="#666666" face="Verdana"><font class="auto-style1"><a href="http://scripophily.net/ropetocoscun.html"><span class="auto-style21">Certificate 1860s</span></a></font><span class="auto-style37"><font class="auto-style23"><span class="auto-style21"> </span></font></span></font></span></b><font face="Verdana"><span class="auto-style37"><span class="auto-style22">with all Orders over $200 </span></span></font></font></font></span></span></span></strong></em></font></span>
+																			</div>
+																			<hr>
+																			<p align="center">
+																			<a href="http://www.scripophily.net/nyor18mostsa.html">
+																			<font size="2">
+																			<img border="0" src="images/framedstockquote.jpg" width="174" height="233" class="auto-style21"><br class="auto-style21">
+																			<span class="auto-style20">New York Stock Exchange Original 
+					Stock Price Quotation Sheet issued in 1860 - Professionaly 
+					Framed/font></span></font></a><font size="2"><br><font size="2" face="Verdana"><img src=images/side-div.jpg width="150" height="29"></font><br>
+																			<font face="Verdana">
+																			<b>
+																			<font color="#FF0000">
+																			<a href="http://www.oldcompany.com">Old Company Research Service</a><br>
+																			</font>Best on the Net<font color="#FF0000"><a href="http://www.oldcompany.com"><br>Click Here for Details</a></font></b><br>
+																			<font color="#FF0000" size="2">
+																			<a href="http://www.oldcompany.com">
+																			<img border="0" src="http://www.oldcompanyresearch.com/images/oldstockdetective.jpg" width="149" height="148"><br>
+																			</a>
+																			</font>
+																			<a href="http://www.oldcompany.com">
+																			<b>
+																			<font color="#FF0000" size="2">OldCompany.com</font></b></a><br>
+																			</font>
+																			<font size="2" face="Verdana">
+																			<img src=images/side-div.jpg width="150" height="29"></font><p align="center">
+																			<a href="http://www.scripophily.net/costofamb63f.html">
+																			<font face="Verdana">
+																			<img border="0" src="images/csajudahp.jpg" width="253" height="173"><br>
+																			</font>
+																			<font style="font-family: Verdana" size="2">Authentic 
+					Confederate Civil War Bonds - 1861 to 1865</font></a><font size="1" face="Verdana"><br>
+																			</font>
+																			<font size="2" face="Verdana">
+																			<img src=images/side-div.jpg width="150" height="29"></font><font face="Verdana"><br>
+																			<a href="http://www.scripophilynews.com/images/bkcnbcfeb2005.wmv">
+																			<img height="82" src="http://www.scripophilynews.com/images/cnbcfeb4.jpg" width="109" border="0" longdesc="Bob.com on CNBC"></a></font><a href="http://www.scripophilynews.com/images/bkcnbcfeb2005.wmv"><font face="Verdana"><br>
+																			<font size="1">Bob.com Kerstein CNBC Interview</font></font></a></td>
+																		</tr>
+																	</table>
+																	<hr>
+																	<table cellSpacing="0" cellPadding="20" width="100%" border="0">
+																		<tr>
+																			<td vAlign="top">
+																			<b><font color="#FFFFCC" face="Verdana">
+																			<span class="auto-style2">
+																			<font class="auto-style2">
+																			<strong>
+																			<span class="auto-style5">Old Stock 
+				Certificates may still be valuable even if the stock no longer 
+				trades under the name printed on the certificate. </span></strong>
+				</font><font color="#FFFFFF">
+				<a href="http://www.oldcompanyresearch.com/">
+																			<strong>
+																			<span class="auto-style5">Old Company Stock Research Service</span></strong></a></font><strong><span class="auto-style5"> 
+				is the world's leading provider of Old Stock and Bond Research 
+				Services and is the successor to all material published by R.M. 
+																			Smythe, 
+				Marvyn Scudders Manuals, Robert D. Fisher Manuals, and 
+				Herzog &amp; Co., Inc. Old Stock Research Services, which have been 
+				performed continuously since 1880</span></strong><font face="Verdana" color="#FFFF99">.<br class="auto-style6">
+																			<span class="auto-style5">&nbsp;</span></font></span></font><span class="auto-style5"><br>
+																			<br>Bob offers 
+						affordable gifts and collectibles for every occasion.&nbsp; We 
+						have gifts for Everyone including Gifts for Employees, Gifts for 
+						Her, Gifts for Him, Gifts for Children, Birthday gifts, 
+						Executive gifts, Christmas Gifts, Boss Gifts, and Special 
+						Occasion Gifts, Stockbroker Gifts, Housewarming Gifts, Wedding 
+						Gifts and many other Gifts you will find on our Superstore.&nbsp; 
+						We have over 10,500 items to choose gifts from and we are adding 
+						many new selections on a daily basis.&nbsp; Scripophily is the 
+						Gift of history.&nbsp;&nbsp; For Gift Ideas or to Order, please 
+							call our toll free 
+						hotline at 1-888-STOCKSNOW (1-888-786-2576) or call 
+						us direct at 703-787-3552...and ask for Bob.</span></b></td>
+																		</tr>
+																	</table>
+																	<table summary="width=100%" width="1062">
+																		<tr>
+																			<td width="1056">
+																			<p align="center">
+																			<font size="3">&nbsp;<b>
+																			</b>
+																			</font>
+																			<b>
+																			<font size="5" color="#FF0000">BOB's Popular Gifts</font><br>Click on the item below to see our most popular gifts</b></td>
+																		</tr>
+																	</table>
+																	<center>
+																	<table summary="width=468" width="1059">
+																		<tr>
+																			<td width="449" align="left" valign="top">
+																			<a href="http://www.scripophily.net/scripgifcer.html">
+																			<font color="#000000">Scripophily Gift Certificate</font></a><br>
+																			<a href="http://www.scripophily.net/grabbagparfa.html">
+																			<font color="#000000">Grab Bag Party Favor Gifts 
+																			</font>
+																			</a>
+																			<br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/dispac.html"><font color="#000000">Anniversary Gifts</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/dispac.html"><font color="#000000">Grooms Gifts</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/dispac.html"><font color="#000000">Corporate Gifts</font></a><br>
+																			<a href="http://www.scripophily.net/index.html" target="_blank">
+																			<font color="#000000">Gift Bags</font></a><br>
+																			<a target="_blank" href="http://www.scripophily.net/index.html">
+																			<font color="#000000">Gift Wrap</font></a><br>
+																			<a href="http://www.scripophily.net">
+																			<font color="#000000">Stock 
+                Gifts</font></a><br>&nbsp;</td>
+																			<td width="409" align="left" valign="top">
+																			<a href="http://www.scripophily.net/index.html">
+																			<font color="#000000">Party Gifts</font></a><br>
+																			<a target="_blank" href="http://www.scripophily.net/index.html">
+																			<font color="#000000">Wholesale Gift Boxes</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/international.html"><font color="#000000">International Gifts</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/sports.html"><font color="#000000">Sports Gifts</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/dispac.html"><font color="#000000">Unique Gifts</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/scripgifcer.html"><font color="#000000">Gift Certificates</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/fraudscandis.html"><font color="#000000">Gift Ideas</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/autfampeopan.html"><font color="#000000">Birthday Gifts</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/preframsel.html"><font color="#000000">Gifts for Men</font></a><br>&nbsp;</td>
+																			<td width="187" align="left" valign="top">
+																			<a target="_blank" 
+                href="http://www.scripophily.net/dispac.html"><font color="#000000">Gifts for Dad</font></a><br>
+																			<a href="http://www.scripophily.net/ind.html">
+																			<font color="#000000">Gifts for Mom</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/rarestocks.html"><font color="#000000">Luxury Gifts</font></a><br>
+																			<a href="http://www.scripophily.net/rarestocks.html">
+																			<font color="#000000">Rare Gifts</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/nsearch.html"><font color="#000000">Graduation Gifts</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/dispac.html"><font color="#000000">Thank You Gifts</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/dispac.html"><font color="#000000">Wholesale Gifts</font></a><br>
+																			<a target="_blank" 
+                href="http://www.scripophily.net/dispac.html"><font color="#000000">Christmas Gifts</font></a></font><br>
+																			<a href="http://www.scripophily.net/fraudscandis.html">
+																			<font color="#000000">Scandal Gifts</font></a></td>
+																		</tr>
+																	</table>
+																	<font size="3" face="Verdana">
+																	<table border="1" width="100%">
+																		<tr>
+																			<td>
+																			<p align="center">
+																			<a style="max-height: none; minheight: none; maxheight: none; max-width: none; minwidth: none; maxwidth: none; boxsizing: content-box" href="http://www.scripophily.net">
+																			<font color="#000000" size="3" style="max-height: none; minheight: none; maxheight: none; max-width: none; minwidth: none; maxwidth: none; boxsizing: content-box">Scripophily.com is the Internet's #1 Buyer and Seller of 
+					Collectible Stock Certificates</font></a><br style="max-height: none; minheight: none; maxheight: none; max-width: none; minwidth: none; maxwidth: none; boxsizing: content-box">
+																			<font size="4" style="max-height: none; minheight: none; maxheight: none; max-width: none; minwidth: none; maxwidth: none; boxsizing: content-box">Join us now on 
+																			</font>
+																			<b style="max-height: none; minheight: none; maxheight: none; max-width: none; minwidth: none; maxwidth: none; boxsizing: content-box">
+																			<a target="_blank" style="max-height: none; minheight: none; maxheight: none; max-width: none; minwidth: none; maxwidth: none; boxsizing: content-box" href="http://twitter.com/scripophily">
+																			<font size="4" style="max-height: none; minheight: none; maxheight: none; max-width: none; minwidth: none; maxwidth: none; boxsizing: content-box">Twitter</font><font color="#000000" size="4" style="max-height: none; minheight: none; maxheight: none; max-width: none; minwidth: none; maxwidth: none; boxsizing: content-box">
+																			</font>
+																			</a>
+																			</b>
+																			<font size="4" style="max-height: none; minheight: none; maxheight: none; max-width: none; minwidth: none; maxwidth: none; boxsizing: content-box">and
+																			<b style="max-height: none; minheight: none; maxheight: none; max-width: none; minwidth: none; maxwidth: none; boxsizing: content-box">
+																			<font style="max-height: none; minheight: none; maxheight: none; max-width: none; minwidth: none; maxwidth: none; boxsizing: content-box">
+																			<a target="_blank" style="max-height: none; minheight: none; maxheight: none; max-width: none; minwidth: none; maxwidth: none; boxsizing: content-box" href="http://www.facebook.com/stockcertificates">Facebook</a></font></b></font></td>
+																		</tr>
+																	</table>
+																	</font>
+																	<p align="center">
+																	<b>
+																	<a href="http://www.oldcompany.com">
+																	<font color="#0000FF">We 
+            Also Research Old Stocks and Companies at OldCompany.com</font></a></b><font color="#0000FF"><o:p><br>&nbsp;</o:p></font>
+																	<table cellspacing="0" cellpadding="0" border="0" bgcolor="#800000" width=100%>
+																		<tr>
+																			<td align=center>
+																			<b>
+																			<font color="#FFFFFF">
+																			<a style="color: #FFFFFF" href="mailto:service@scripophily.com?subject=Bob.com Website Question">Contact</a> | 
+																			<a style="color: #FFFFFF" href="http://www.scripophily.net">Site Map</a> | 
+																			<a style="color: #FFFFFF" 
+        href="http://www.scripophily.net/privacypolicy.html">Privacy Policy </a>| 
+																			<a style="color: #FFFFFF" href="http://www.scripophily.com">Home</a></font></b>
+																			</td>
+																		</tr>
+																	</table>
+																	<table border="0" cellpadding="5" align="left">
+																		<tr>
+																			<td>Collect Stocks or give them to others.&nbsp; They&nbsp; make terrific 
+		gifts for House Warming, Global Warming, Promotions,&nbsp; Weddings, Client 
+		Appreciation, Birthdays, Christening, Retirements, Anniversary,&nbsp; 
+		Holidays, Fathers Day, Mothers Day, Bosses Day, Employee Appreciation, 
+		and many other occasions.&nbsp;&nbsp; Scripophily .com is a Stock 
+		Certificate Encyberpedia.<p class="auto-style15"><font face="Arial">� 
+																			1996 
+																			- 
+																			2015
+																			<a href="http://www.scripophily.com">Scripophily .com 
+																			</a>� LLC, 
+																			<a href="http://www.scripophily.net">Scripophily.net</a>, Old Stock Exchange, Professional Scripophily Traders 
+Association, PSTA.COM , EBITDA .COM,&nbsp; Wall Street History - Lost and Found 
+(sm) All Rights Reserved. You may link to the site, but do not copy any images 
+or information without our expressed written permission. Thank you!</font></p>
+
+<p>
+<b>Send us a message</b>
+<form action=http://www.scripophily.com/formmail.php method=post target=formmail onsubmit="window.open('','formmail','status=0,toolbar=0,directory=0,width=550,height=400')">
+<table>
+    <tr>
+        <td>Your Name:</td><td><input type=text name=Name></td>
+    </tr>
+    <tr>
+        <Td>Your Email:</td><td><input type=text name=email></td>
+    </tr>
+    <tr>
+        <td>Subject:</td><td><input type=text name=subject></td>
+    </tr>
+    <tr valign=top>
+        <td>Message:</td>
+        <td><textarea name=Comments cols=40 rows=10></textarea></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><input type=submit value=Send></td>
+    </tr>
+</table>
+</form>
+
+																			<p align="center">
+																			<font face="Arial"><br><br>Visit
+																			<a href="http://www.stockcertificateresearch.com">Stock Certificate 
+		Research</a> to find out what happened to your old certificates. <br>
+																			</font>
+																			<br>Bob.com � is powered and designed by 
+																			<a href="http://www.bob.com/">Bob.com</a>.<br>
+																			<br>
+																			<font color="#000000">
+																			<a href="http://www.bob.com/">
+																			<img alt="Check out Bob.com" src="images/BobComLogo.gif" border="0" width="180" height="35"><br>
+																			</a>
+																			</font>
+																			<p align="center">
+																			<b>All Email and other Information is Kept Confidential!</b></p>
+																			<p align=center>&nbsp;<iframe src=http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fstockcertificates&amp;send=true&amp;layout=standard&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=80 scrolling=no frameborder=0 style=border:none; overflow:hidden; width:450px; height:80px; allowTransparency=true></iframe>
+																			</p>
+																			</p>
+																			</p>
+																			<p align="center">
+																			<b>
+																			<font size="3">Scripophily.com is the Proud Sponsor of the<br>
+																			<a target="_blank" href="http://www.september112001.com">September112001.com 
+																			</a>Website</font></b><p align="center">
+																			&nbsp;</td>
+																		</tr>
+																	</table>
+																	</center>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													</TABLE>
+												</TD>
+											</TR>
+											</TABLE>
+										</TD>
+									</TR>
+									</TABLE>
+								</TD>
+							</TR>
+							</TABLE>
+						</TD>
+					</TR>
+					<TR height=51>
+						<TD id=bodybottomback>
+							</TD>
+					</TR>
+					</TABLE>
+				</TD>
+			</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	</TABLE>
+
+	</div>
+	
+	
+			
+         			
+	
+<!-- Google Code for Old Company -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072396910;
+var google_conversion_label = "ATPbCJ-blgkQ7vSt_wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072396910/?value=1.000000&amp;label=ATPbCJ-blgkQ7vSt_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+	</div>
+	<table style="width: 100%" align="center">
+		<tr>
+			<td class="auto-style10"><p class="auto-style10"><br>
+			<b><font size="4">See </font></b><font size="4"><b>Stocks in the 
+			News:</b></font></p>
+			</center>
+			<p>
+			</center><center>
+			<script type="text/javascript" src="http://output93.rssinclude.com/output?type=js&amp;id=412499&amp;hash=86d4b36063be268bb621724efacd31ab"></script></center>
+			
+         			<p>&nbsp;</p>
+</td>
+		</tr>
+	</table>
+	
+	<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+var google_tag_params = {
+ecomm_prodid: 'REPLACE_WITH_VALUE',
+ecomm_pagetype: 'REPLACE_WITH_VALUE',
+ecomm_totalvalue: 'REPLACE_WITH_VALUE',
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072396910;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072396910/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+</body>
+
+</html>
