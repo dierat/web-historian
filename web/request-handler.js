@@ -33,9 +33,9 @@ exports.handleRequest = function (req, res) {
         var arr = data.split('\n');
 
         // if dataFile is not in the array
-        if ( !(_.contains(arr, dataFile)) ){
+        if ( !( archive.isUrlInList(arr, dataFile) ) ){
           archive.downloadUrls(dataFile);
-          
+
           archive.addUrlToList('./archives/sites.txt', dataFile);
 
           // this code is happening way before the dependent function are being executed

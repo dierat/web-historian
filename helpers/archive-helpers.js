@@ -29,7 +29,8 @@ exports.initialize = function(pathsObj){
 exports.readListOfUrls = function(){
 };
 
-exports.isUrlInList = function(){
+exports.isUrlInList = function(arr, dataFile){
+  return _.contains(arr, dataFile);
 };
 
 exports.addUrlToList = function(fileLocation, dataFile){
