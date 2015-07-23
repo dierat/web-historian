@@ -1,0 +1,255 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="ctl00_head1"><meta http-equiv="X-UA-Compatible" content="IE=9" /><meta name="google-site-verification" content="RFrX2IByzOgeD6BPu6HwSi5IgC6pk5Ue6dfbdKwUNXk" />
+    <script language="javascript">
+    function initAjaxProgress()
+    {
+        var pageHeight = (document.documentElement && document.documentElement.scrollHeight) ? document.documentElement.scrollHeight : (document.body.scrollHeight > document.body.offsetHeight) ? document.body.scrollHeight : document.body.offsetHeight;
+        //SET HEIGHT OF BACKGROUND
+        var bg = document.getElementById('ajaxProgressBg');
+        bg.style.height = (pageHeight + 1000) + 'px';
+        //POSITION THE PROGRESS INDICATOR ON INITIAL LOAD
+        reposAjaxProgress();
+        //REPOSITION THE PROGRESS INDICATOR ON SCROLL
+        window.onscroll = reposAjaxProgress;
+    }
+
+    function reposAjaxProgress()
+    {
+        var div = document.getElementById('ajaxProgress');
+        var st = document.body.scrollTop;
+        if (st == 0) {
+            if (window.pageYOffset) st = window.pageYOffset;
+            else st = (document.body.parentElement) ? document.body.parentElement.scrollTop : 0;
+        }
+        div.style.top = 150 + st + "px";
+    }
+    </script>
+<link href="App_Themes/SSCom1/ComponentArt.css" type="text/css" rel="stylesheet" /><link href="App_Themes/SSCom1/print.css" type="text/css" rel="stylesheet" /><link href="App_Themes/SSCom1/style.css" type="text/css" rel="stylesheet" /><link href="App_Themes/SSCom1/webparts.css" type="text/css" rel="stylesheet" /><link rel="canonical" href="/" /><meta name="alexaVerifyID" content="30uYO8zsLFXPlqHXDX0AmeV05nU" /><meta name="y_key" content="9faaa6a2a57e828b" /><meta name="msvalidate.01" content="DE8DCBABAA3D659BF4FDD8412C654BF4" /><meta name="verify-v1" content="4ZTpIckOA4GVoXzTNlM9UGXhD1R+Np8oaEwUnb6YByU" /><link type="text/css" rel="stylesheet" href="http://cdn.suzannesomers.com/js/rhinoslider/css/rhinoslider-1.05.css" />
+<script type="text/javascript" src="http://cdn.suzannesomers.com/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="http://cdn.suzannesomers.com/js/rhinoslider/js/rhinoslider-1.05.min.js"></script>
+<script type="text/javascript" src="http://cdn.suzannesomers.com/js/rhinoslider/js/mousewheel.js"></script>
+<script type="text/javascript" src="http://cdn.suzannesomers.com/js/rhinoslider/js/easing.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+
+$("#slider").rhinoslider({
+autoPlay:true,
+showTime:6000,
+effectTime:1500,
+controlsKeyboard:false,
+showControls:'hover',
+showBullets:'never',
+prevText: '',
+nextText: '',
+playText: '',
+pauseText:'',
+pauseOnHover: 'false'
+});
+
+});
+</script>
+<meta name="verify-v1" content="4ZTpIckOA4GVoXzTNlM9UGXhD1R+Np8oaEwUnb6YByU=" />
+<meta name="keywords"
+content="Menopause and Hormone Replacement Therapy, HRT, Cancer, Natural alternatives, estrogen, progesterone, Alternative Medicine, osteoporosis, perimenopause, post menopause, stress management, menopause,FaceMaster, ThighMaster, TorsoTrack, UltraTrack, Bodyrow, Somersize, SomerSweet, Summersweet, Suzanne Summers, Susan Summers, Susan Sommers, Suzanne Sommers, Bath, Body, Skincare, Jewelry, Apparel"> 
+<meta name="Description" content="The Official Suzanne Somers Website! Your direct line to Suzanne Somers News, Information and Online Shopping (FaceMaster, Somersize, Skincare and Spa Products, Books, Tapes, Fitness, Thighmaster...)"><title>
+	Suzanne Somers' Official Website - SuzanneSomers.com
+</title></head>
+<body onLoad="initAjaxProgress();">
+    <form name="aspnetForm" method="post" action="Default.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__WPPS" id="__WPPS" value="s" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE4NTIxNDk0M2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFJWN0bDAwJHdwbSRIb21lUGFnZSRjdGwwMCRTZWFyY2hCdXR0b26LTLtLOw7uuL8Bt9ozvPjYfZubNw==" />
+</div>
+
+
+<script src="/WebResource.axd?d=EEr2n-btXJ8yfR4--939QI-7K5SAB3fTUrJ4QpKP6lCVm5iRxaigR3MUPlRrC3zkO3FDmkqKR3Tu2vfBtnTLbM7q1H_K0gAVHcsXlV_otDWwBAEk0&amp;t=633619323958192000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jn1rYaiMH2OyprfUC8MQAPMeDrGysgv114yWu_ownNlDb2aJA75tMzhVMkSVg5CI4j5r_9qsJTehLPNFdSZ_N7ZEswGDuWxuPK1t09xYQxEK9ZruQqPpeGo8-MzWFq1YGB5enXaJRfAFMqFt8lk6RB0IS4c1&amp;t=633680695109687500" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=5qlVXo2wjq5MM-zz_FmotTQtH_UR9Gedotp5QJMPCqtjQ97rHLIuBYoJSKugZD597YO4Qn5j2akcIY4-bz80v4dNQpnF6-BxITRPPL2dnWRYuE3sLUvYlWCWJZYIFgd1eC2XHA2&amp;t=633619323958192000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=XxxI_Rce-d0_P3XUwTYsoxOu4WO-IAT5rZTZIkdlFPz_NlmIglbg8DoEUYl_nOYe8GyhfuF2np3k_rRMnxBpOgPxQSfWewhgTUA8BoMEngR6FXHE9l2-j47xtYnBBJNRuS3STw2&amp;t=633619323958192000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=CrgdxYdOtu3zkshwHKxwv-pEAbF2JtNLvJezIIg2w5mKlZN00XGbbSX-JPfL0SiSx6_zOwCJ0xCkqfVwh3p3yFyjktdvuWx-C0tRxVUA36sCGk6hsv5pbqhz3Ka0-AnnZQBhlQ2&amp;t=633619323958192000" type="text/javascript"></script>
+    
+    <div id="ctl00_UpdateProgress1" style="display:none;">
+	
+            <div id="ajaxProgressBg"></div>
+            <div id="ajaxProgress"></div>
+        
+</div>
+    <div id="ctl00_wpm">
+
+</div>
+    <div id="ctl00_wpm_HomePage">
+	<table id="storeHeader1" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="logo" bgcolor="white">
+      <a href="/"><img src="http://cdn.suzannesomers.com/images/suzanne-somers-logo.jpg" width="351" height="50" alt="SuzanneSomers.com" border="0"></a>
+	  	  <a href="/Redir.aspx?RedirID=200" target="_blank"><img src="http://cdn.suzannesomers.com/images/social/twitter-suzanne-somers.png" width="101" height="47" alt="Twitter" border="0"></a>
+	  <a href="/Redir.aspx?RedirID=201" target="_blank"><img src="http://cdn.suzannesomers.com/images/social/facebook-suzanne-somers.png" width="73" height="47" alt="Facebook" border="0"></a>
+	  <a href="/Redir.aspx?RedirID=203" target="_blank"><img src="http://cdn.suzannesomers.com/images/social/youtube-suzanne-somers.png" width="64" height="47" alt="YouTube" border="0"></a>
+    </td>
+    <td class="headerContent" align="right" valign="top" bgcolor="white">
+	<div class="shortcuts2">
+          <a href="/" class="capital">HOME</a> -
+				<a href="/contactus.aspx" class="capital">CONTACT US</a> - 
+        <a href="/Members/MyAccount.aspx" class="capital">MY ACCOUNT</a> -
+				
+									<a href="/login.aspx" class="capital">SIGN IN</a>
+				
+				        </div>
+        <div class="search">
+          <div id="ctl00_wpm_HomePage_ctl00_SearchPanel">
+		
+<input name="ctl00$wpm$HomePage$ctl00$SearchPhrase" type="text" id="ctl00_wpm_HomePage_ctl00_SearchPhrase" class="searchPhrase" /><input type="image" name="ctl00$wpm$HomePage$ctl00$SearchButton" id="ctl00_wpm_HomePage_ctl00_SearchButton" src="/Images/searchbutton.jpg" style="border-width:0px;" />
+
+	</div>
+        </div>
+    </td>
+</tr>
+
+
+<tr>
+<td colspan=2>
+<div style="font-family:arial;font-size:14px;width:1024px;height:24px;font-weight:bold;line-height:24px;"><span style="font-size:16px;color:#9b5ba4;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESOURCES:</span> &nbsp;<a href="/bombshell/">Bombshell</a> &nbsp;&nbsp;&nbsp;<a href="/blog/" target="_blank">Blog</a> &nbsp;&nbsp;&nbsp;<a href="/community/">Community</a>&nbsp;&nbsp;&nbsp;<a href="/sexy-forever-411/">Sexy Forever</a>&nbsp;&nbsp;&nbsp;<a href="/knockout/">Knockout</a>&nbsp;&nbsp;&nbsp; <a href="/health-and-hormones/">Health & Hormones</a>&nbsp;&nbsp;&nbsp;  <a href="/appearances/">TV/Live Appearances</a>&nbsp;&nbsp;&nbsp; <a href="/shopnbc/">ShopNBC</a>&nbsp;&nbsp;&nbsp;<a href="/lifewave/">LifeWave</a></div>
+<div style="font-family:arial;font-size:12px;color:black;background-color:#d5aed2;width:1024px;height:24px;font-weight:bold;line-height:24px;"><span style="font-size:16px;color:white;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHOPPING:</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/categories/food">FOOD</a>&nbsp;&nbsp;&nbsp; <a href="/somersweet-all-natural-sweetener/">SOMERSWEET</a>&nbsp;&nbsp;&nbsp; <a href="/weight-loss">WEIGHT LOSS PRODUCTS</a>&nbsp;&nbsp;&nbsp;<a href="/vitamins-supplements/">SUPPLEMENTS</a>&nbsp;&nbsp;&nbsp; <a href="/categories/cookstools/">COOKS TOOLS</a> &nbsp;&nbsp;&nbsp; <a href="/categories/beauty/">BEAUTY</a> &nbsp;&nbsp;&nbsp; <a href="/redir.aspx?redirID=55" target="_blank">FACEMASTER &nbsp;&nbsp;&nbsp; <a href="/categories/fitness/">FITNESS</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/books/">BOOKS/DVDS</a></div>
+</td>
+</tr>
+</table>
+<div id="outerContentWrapper">
+	<div id="innerContentWrapper">
+		<table cellspacing="0" cellpadding="0" id="contentLayout">
+			<tr>
+				
+				<td align="left" valign="top" id="mainPanel">
+					<!--Begin Home-->
+<table  border="0" cellpadding="0" cellspacing="0" style="margin-left:20px;">
+<tr>
+ <td valign="top">
+  <table>
+  <td>
+   <div id="slider" style="width:700px;height:235px;">
+   <div><a href="/categories/beauty/cosmetics-collection" alt="Suzanne Organics Cosmetics Collection"><img src="http://cdn.suzannesomers.com/images/flash/cosmetics-collection.png" alt="Suzanne Organics Cosmetics Collection" border="0"></a></div>
+    <div><a href="http://www.facemaster.com" target="_blank"><img src="http://cdn.suzannesomers.com/images/flash/facemaster-platinum.jpg" alt="FaceMaster" border="0"></a></div>
+    <div><a href="/Redir.aspx?RedirID=144" target="_blank"><img src="http://cdn.suzannesomers.com/images/flash/over-40-over-weight.jpg" alt="Over 40 Lose Weight" border="0"></a></div>
+    <div><a href="/Redir.aspx?RedirID=138" target="_blank" alt="Forever Health"><img src="http://cdn.suzannesomers.com/images/flash/forever-health-bioidentical-hormones.jpg" alt="Forever Health" border="0"></a></div>
+	  
+	 </div>
+  </td>
+  <td>
+   <a href="/Redir.aspx?RedirID=144" target="_blank">
+   <img src="http://cdn.suzannesomers.com/images/home/sexy-forever-order-now-5.gif"  style="margin-left:19px;" border="0" alt="Lose In 2013"></a>
+  </td>
+  </table>
+ </td>
+</tr>
+
+<tr>
+  <td >
+  <img src="http://cdn.suzannesomers.com/images/home/life-extension-join-now.jpg" style="margin-top:20px;" width="973" height="322" border="0" alt="Life Extension" usemap="#mid-map-le"></td>
+</tr>
+
+<tr>
+ <td colspan="2">
+  <img class="HomeLeftImage" src="http://cdn.suzannesomers.com/images/home/partner-links-2013.jpg" alt="partner links" border="0" usemap="#MapPartners">
+ </td>
+</tr> 
+</table>
+
+
+<map name="mid-map">
+<area shape="rect" coords="0,0,973,360" href="http://www.facemaster.com" alt="Look Younger" target="_blank">
+</map>
+<map name="mid-map-le">
+<area shape="rect" coords="0,0,973,322" href="/Redir.aspx?RedirID=98" alt="Look Younger" target="_blank">
+</map>
+
+
+<map name="MapPartners">
+<area shape="rect" coords="30,20,115,165" href="http://www.foreverhealth.com" alt="Find a doctor in your area" target="_blank">
+<area shape="rect" coords="180,20,265,165" href="/redir.aspx?redirID=102" alt="Life Extension Sexy Forever Medical Tests" target="_blank">
+<area shape="rect" coords="300,20,434,180" href="Redir.aspx?RedirID=54" alt="FaceMaster.com" target="_blank">
+<area shape="rect" coords="435,20,549,117" href="Redir.aspx?RedirID=137" alt="ForeverHealth.com" target="_blank">
+<area shape="rect" coords="550,20,699,117" href="NeoStem" alt="NeoStem">
+<area shape="rect" coords="700,20,854,117" href="LifeExtension" alt="LifeExtension">
+<area shape="rect" coords="855,20,1000,180" href="LifeWave" alt="LifeWave">
+</map>
+<!--End Home-->
+				</td>
+			</tr>
+		</table>
+	</div>
+	<table width="960" class="ss1" id="ss1">
+<tr>
+<td align="left" >
+<img align="left" width="1024" height="31" alt="SuzanneSomers.com" border="0" usemap="#FooterMap" src="http://cdn.suzannesomers.com/images/suzanne-somers-footer.jpg">
+</td>
+</tr>
+</table>
+
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-838452-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<map name="FooterMap">
+<area shape="rect" coords="180,0,244,30" href="/Search.aspx">
+<area shape="rect" coords="245,0,300,30" href="/FAQ/">
+<area shape="rect" coords="301,0,350,30" href="/Help/">
+<area shape="rect" coords="351,0,445,30" href="/Members/MyAccount.aspx">
+<area shape="rect" coords="446,0,590,30" href="/Basket.aspx">
+<area shape="rect" coords="591,0,750,30" href="/Help/#credit">
+<area shape="rect" coords="751,0,855,30" href="/ContactUs.aspx">
+</map>
+<br><center>
+All Rights Reserved SuzanneSomers.com™ Copyright © 2015
+<br>
+<table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+<tr>
+<td width="135" align="center" valign="top"><script src=https://seal.verisign.com/getseal?host_name=www.suzannesomers.com&size=M&use_flash=NO&use_transparent=NO&lang=en></script><br />
+<a href="http://www.verisign.com/ssl-certificate/" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</table>
+<!--End Footer-->
+</div>
+</div>
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';//]]>
+</script>
+
+<script type="text/javascript">
+
+__wpm = new WebPartManager();
+__wpm.overlayContainerElement = null;
+__wpm.personalizationScopeShared = true;
+
+var zoneElement;
+var zoneObject;
+
+zoneElement = document.getElementById('ctl00_ContentZone');
+if (zoneElement != null) {
+    zoneObject = __wpm.AddZone(zoneElement, 'ctl00$ContentZone', true, false, 'black');
+    zoneObject.AddWebPart(document.getElementById('WebPart_HomePage'), null, false);
+}
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Sys.Preview.UI.Controls.WebParts.WebPartManager, {"allowPageDesign":false}, null, null, $get("ctl00_wpm"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

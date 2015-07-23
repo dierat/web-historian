@@ -77,12 +77,12 @@ recommendationsEngineTimeout: "15000",
 refactoredBrowsePageEnabled: true,
 refactoredQuickBag:"false",
 responsiveCssEnabled: true,
-sdpGrid: "cellB",
+sdpGrid: "cellA",
 secureHost: "https://www.macys.com",
 segmentationHost:'//segments.macys.com/?client=JS',
 seoFriendlyWeddingRegistryBaseUrl: "/wedding-registry",
-serverCloneName: "macys-navapp_cluster1_macyws320_m01",
-serverPhysicalName: "macyws320Node_B",
+serverCloneName: "macys-navapp_cluster1_macyws332_m01",
+serverPhysicalName: "macyws332Node_A",
 siteMonetizationEnabled: "true",
 smAllowedCategoryIds: "51662, 23480, 45859, 58181, 62056, 55971, 23484, 16908, 23487, 24672, 34821, 23481, 24294, 28973, 53629, 53630, 7919, 65938, 31865, 7923, 17199, 62779, 31795, 46710, 9724, 51662, 24732, 7552, 31760, 7554, 46711, 7583, 31839, 46705, 23481, 9427, 29334, 25691, 25692, 60862, 26194, 17799, 52546, 26195, 29722, 25547, 20688, 29563, 17246, 8237, 51483, 8240, 16853, 22094, 51717, 40554, 56062, 58936, 7502, 26795, 37945, 25045, 22748, 60167, 13661, 12398, 15286, 49492, 29405, 28898, 28899, 40384, 28901, 9915, 46529, 9425",
 spoColorSwatchesEnabled: true,
@@ -1486,9 +1486,9 @@ MACYS.brightTag["navigation"] = {
 <!--
 home - NavAppHomePage
 Page Layout - Canvas
-07/23/2015 14:45:55 EDT
-MW320NODE_B
-MACYS-NAVAPP_CLUSTER1_MW320_M01
+07/23/2015 15:01:11 EDT
+MW332NODE_A
+MACYS-NAVAPP_CLUSTER1_MW332_M01
 15F
 -->
 </html>

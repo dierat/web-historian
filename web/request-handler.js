@@ -27,13 +27,10 @@ exports.handleRequest = function (req, res) {
       //e.g. when the user types google.com when we have cached www.google.com
       dataFile = dataFile.slice(4);
 
-      // read list of URLS
-      fs.readFile('./archives/sites.txt', {encoding: 'utf-8'}, function(err, data){
-        // split data into an array
-        var arr = data.split('\n');
-
+      archive.readListOfUrls('./archives/sites.txt', function(arr){
         // if dataFile is not in the array
         if ( !( archive.isUrlInList(arr, dataFile) ) ){
+
           archive.downloadUrls(dataFile);
 
           archive.addUrlToList('./archives/sites.txt', dataFile);
@@ -41,13 +38,11 @@ exports.handleRequest = function (req, res) {
           // this code is happening way before the dependent function are being executed
           httpHelpers.serveAssets(res, __dirname + '/public/loading.html', function(){}, 302);
 
-        // the following code should stay here
-
         }else{
           httpHelpers.serveAssets(res, './archives/sites/' + dataFile + '.txt', function(){});
         }
-      });
-    });
-  }
+      });//ended fs.readFile
+    });//req.on('end')
+  }//if POST
   // res.end(archive.paths.list);
 };
