@@ -44,16 +44,12 @@ exports.addUrlToList = function(fileLocation, dataFile){
 };
 
 exports.isUrlArchived = function(url,callback){
-  // call exports.readListOfUrls, with callback that calls exports.isUrlInList
-  // var isURLArchived = false;
   exports.readListOfUrls('../web/archives/archivedSites.txt', function(arr){
     if(exports.isUrlInList(arr, url)) {
-      // isURLArchived = true; 
       callback(true);
     } else {
       callback(false);
     }
-      // console.log("is URL archived?: ", isURLArchived);
   });
 
 };
