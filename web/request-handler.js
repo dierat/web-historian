@@ -34,28 +34,12 @@ exports.handleRequest = function (req, res) {
 
         // if dataFile is not in the array
         if ( !(_.contains(arr, dataFile)) ){
-
-          // use append to add this string to the end of 
-          // the file with '\n' at the end
-          // archive the actual website
-          request("http://" + dataFile, function(err, response, body) {
-            // write file for this site, adding body to it 
-            //(should create file is doesn't exist)
-            fs.writeFile('./archives/sites/' + dataFile + '.txt', 
-              body, function(err){ 
-                if(err){console.log('error');}});
-          });
-          // NOW BEING CALLED IN archive.addUrlToList()
-          // fs.appendFile('./archives/sites.txt', dataFile + '\n', function(err){
-          //   if(err) throw err;
-          // });
-
+          archive.downloadUrls(dataFile);
+          
           archive.addUrlToList('./archives/sites.txt', dataFile);
 
-            // the following code should stay here
-
-            // this code is happening way before the dependent function are being executed
-            httpHelpers.serveAssets(res, __dirname + '/public/loading.html', function(){}, 302);
+          // this code is happening way before the dependent function are being executed
+          httpHelpers.serveAssets(res, __dirname + '/public/loading.html', function(){}, 302);
 
         // the following code should stay here
 
