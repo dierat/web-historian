@@ -8,12 +8,11 @@ var request      = require("request");
 
 exports.handleRequest = function (req, res) {
 
-
   if(req.method === 'GET'){
     if (req.url === '/'){
       req.url += 'index.html';
     }
-    console.log("returning ",__dirname + '/public' + req.url);
+    // console.log("returning ",__dirname + '/public' + req.url);
     httpHelpers.serveAssets(res, __dirname + '/public' + req.url, function(){});
   }
   if(req.method === 'POST'){
@@ -21,33 +20,42 @@ exports.handleRequest = function (req, res) {
     req.on('data', function(chunk){
       dataFile += chunk;
     });
-    req.on('end', function(){ //cached level 1
+    req.on('end', function(){ 
       //will need to account for www
       //e.g. when the user types google.com when we have cached www.google.com
       dataFile = dataFile.slice(4);
-      //cached level 2
+
+      // read list of URLS
       fs.readFile('./archives/sites.txt', {encoding: 'utf-8'}, function(err, data){
         // split data into an array
         var arr = data.split('\n');
 
         // if dataFile is not in the array
         if ( !(_.contains(arr, dataFile)) ){
+
+          
+
           // use append to add this string to the end of 
           // the file with '\n' at the end
           // archive the actual website
-
-          //cache level 3?
           request("http://" + dataFile, function(err, response, body) {
-            // write file for this site, adding body to it (should create file is doesn't exist)
-
-            //cache level 4
-            fs.writeFile('./archives/sites/' + dataFile + '.txt', body, function(err){ console.log('error');});
+            // write file for this site, adding body to it 
+            //(should create file is doesn't exist)
+            fs.writeFile('./archives/sites/' + dataFile + '.txt', 
+              body, function(err){ 
+                if(err){console.log('error');}});
           });
           fs.appendFile('./archives/sites.txt', dataFile + '\n', function(err){
             if(err) throw err;
-            //
-            httpHelpers.serveAssets(res, __dirname + '/public/loading.html', function(){}, 302);
           });
+
+            // the following code should stay here
+
+            // this code is happening way before the dependent function are being executed
+            httpHelpers.serveAssets(res, __dirname + '/public/loading.html', function(){}, 302);
+
+        // the following code should stay here
+
         }else{
           httpHelpers.serveAssets(res, './archives/sites/' + dataFile + '.txt', function(){});
         }
