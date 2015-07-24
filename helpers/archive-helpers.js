@@ -38,6 +38,7 @@ exports.isUrlInList = function(arr, dataFile){
 };
 
 exports.addUrlToList = function(fileLocation, dataFile){
+  console.log('adding ' + dataFile + " to file: " + fileLocation);
   fs.appendFile(fileLocation, dataFile + '\n', function(err){
     if(err) throw err;
   });
@@ -51,11 +52,10 @@ exports.isUrlArchived = function(url,callback){
       callback(false);
     }
   });
-
 };
 
 exports.downloadUrls = function(dataFile){
-  console.log("downloadUrls calling!");
+  console.log("downloadUrls called with: ", dataFile);
   request("http://" + dataFile, function(err, response, body) {
     fs.writeFile('../web/archives/sites/' + dataFile + '.txt', 
       body, function(err){ 

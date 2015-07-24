@@ -4,6 +4,7 @@ var httpHelpers  = require('./http-helpers.js');
 var fs           = require('fs');
 var _            = require('../node_modules/underscore/underscore.js');
 var request      = require("request");
+var htmlFetcher  = require("../workers/htmlfetcher.js");
  
 
 exports.handleRequest = function (req, res) {
@@ -31,7 +32,7 @@ exports.handleRequest = function (req, res) {
         // if dataFile is not in the array
         if ( !( archive.isUrlInList(arr, dataFile) ) ){
 
-          archive.downloadUrls(dataFile);
+          // archive.downloadUrls(dataFile);
 
           archive.addUrlToList('./archives/sites.txt', dataFile);
 
